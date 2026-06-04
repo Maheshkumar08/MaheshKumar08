@@ -22,9 +22,9 @@
 - 📱 Love developing both web and mobile applications that solve real-world problems
 - ❤️ Always learning new technologies and building personal projects
 
-- 🌐 Visit my **Portfolio**: [Portfolio](https://your-portfolio-link.com)
-- 📫 Reach me at: **your-email@gmail.com**
-- 💼 LinkedIn: **https://linkedin.com/in/your-profile**
+- 🌐 Visit my **Portfolio**: [Portfolio]((https://mahesh-kumar-vyas-portfolio.vercel.app/))
+- 📫 Reach me at: maheshk00328@gmail.com
+- 💼 LinkedIn:[ **https://linkedin.com/in/mahesh**](https://www.linkedin.com/in/mahesh-kumar-vyas-286980319/")
 <!--End Intro-->
 
 <!--Profile Count Badge-->
