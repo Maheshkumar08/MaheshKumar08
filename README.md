@@ -57,12 +57,12 @@
 </ul>
 
 <h3 align="left">Highlighted Projects</h3>
-<ul align="left">
+<!-- <ul align="left">
   <li><a href="https://github.com/USERNAME/ecommerce-app">🛒 E-Commerce App (MERN Stack)</a></li>
   <li><a href="https://github.com/USERNAME/job-portal">💼 Job Portal (React + Node.js + MongoDB)</a></li>
   <li><a href="https://github.com/USERNAME/chat-app">💬 Real-Time Chat App (Socket.io)</a></li>
   <li><a href="https://github.com/USERNAME/react-native-app">📱 React Native Mobile App</a></li>
-</ul>
+</ul> -->
 
 <br /><br /><br /><br />
 
